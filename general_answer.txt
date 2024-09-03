@@ -1,0 +1,22 @@
+Based on the provided information, the required courses for the Economics Major, B.S. (ECON) and the Computer Science Major, B.S. (COMP) are specified within the sample plans of study. Let's start by identifying the courses required for each major and then create a full schedule for the double major.
+
+In the case of:
+
+Economics Major, B.S. (ECON):
+- ECON 101: Introduction to Economics
+- ECON 400: Introduction to Data Science and Econometrics
+- ECON 410: Intermediate Microeconomics
+- ECON 420: Intermediate Macroeconomics
+- ECON 470: Econometrics
+
+Computer Science Major, B.S. (COMP):
+- COMP 110: Introduction to Programming and Data Science
+- COMP 210: Data Structures and Analysis
+- COMP 283: Discrete Structures
+- COMP 211: Systems Fundamentals
+- COMP 301: Foundations of Programming
+- COMP 311: Computer Organization
+- COMP 455: Models of Languages and Computation
+- COMP 550: Algorithms and Analysis
+
+Let's create a full schedule for the double major without missing any required courses.

@@ -1,0 +1,12 @@
+.ebextensions/
+.vscode/
+all_jsons/
+all_pdfs/
+chunk_30_1032_chunks/
+session_storage/
+flask_session/
+ramvisor/
+templates/
+txt_files/
+user_uploads/
+times.pdf

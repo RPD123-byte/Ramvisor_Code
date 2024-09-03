@@ -1,0 +1,75 @@
+Given your request for a full schedule for an Economics (BS) and Computer Science (BS) double major, and considering the detailed course information provided, I will create a comprehensive plan for both majors.
+
+Assuming you are starting as a first-year student and have not completed any courses, your schedule will look something like this:
+
+**Freshman Year**
+- **Fall Semester (17 credit hours)**
+  1. ENGL 105 - ENG COMP & RHETORIC (3 credit hours) [CR]
+  2. MATH 231 - CALC FUNC ONE VAR I (4 credit hours) [QR]
+  3. ECON 101 - ECON: INTRO (4 credit hours) [SS]
+  4. COMP 110 - INTRO PROGRAMMING (3 credit hours) [QR]
+  5. IDST 101 - COLLEGE THRIVING (1 credit hour)
+  6. Elective / Focus Capacity Course (2 credit hours)
+
+- **Spring Semester (17 credit hours)**
+  1. MATH 232 - CAL FUNC ONE VAR II (4 credit hours) [QI]
+  2. STOR 215 - INTRO TO DATA MODELS (3 credit hours)
+  3. COMP 210 - ANALYSIS OF DATA STRUCTURE (3 credit hours)
+  4. ECON 400 - DATA SCIENCE AND ECONOMETRICS (4 credit hours) [QI]
+  5. Focus Capacity Course (3 credit hours)
+
+**Sophomore Year**
+- **Fall Semester (17 credit hours)**
+  1. MATH 233 - MULTI VARI CALC I (4 credit hours) [QI]
+  2. COMP 283 - DISCRETE STRUCTURES (3 credit hours) [QR]
+  3. COMP 301 - STRUCTURE/ORGANIZE OWN CODE (3 credit hours)
+  4. Focus Capacity Course (3 credit hours)
+  5. Elective / Minor Requirement (3 credit hours)
+  6. ECON 410 - INTERMEDIATE MICROECONOMICS (4 credit hours)
+
+- **Spring Semester (17 credit hours)**
+  1. STOR 435 - INTRO TO PROBABIL (3 credit hours) [QI]
+  2. Focus Capacity Course with Empirical Investigation Lab (4 credit hours) [Including Lab Requirement]
+  3. COMP 211 - SYSTEM PROGRAMMING FUNDAMENTALS (3 credit hours)
+  4. ECON 420 - INTERMEDIATE MACROECONOMICS (3 credit hours)
+  5. Elective / Minor Requirement (3 credit hours)
+
+**Junior Year**
+- **Fall Semester (17 credit hours)**
+  1. STOR 415 - INTRO TO OPTIMIZATION (3 credit hours) [QI]
+  2. COMP 550 - ALGRTHMS & ANALYSIS (3 credit hours) [QR]
+  3. ECON 470 - ECONOMETRICS (3 credit hours) [QI]
+  4. Focus Capacity Course (3 credit hours)
+  5. Elective / Minor Requirement (3 credit hours)
+  6. Physical Education Course (1 credit hour)
+
+- **Spring Semester (17 credit hours)**
+  1. COMP 455 - MODELS: LANGS/COMPN (3 credit hours)
+  2. COMP 311 - COMPUTER ORGANIZATION (3 credit hours)
+  3. MATH 381 - DISCRETE MATH (3 credit hours) [QI]
+  4. ECON 384 - GATEWAY TO PHIL/POLI/ECON (3 credit hours) [PH]
+  5. Focus Capacity Course (3 credit hours)
+  6. Elective / Minor Requirement (2 credit hours)
+
+**Senior Year**
+- **Fall Semester (15 credit hours)**
+  1. ECON 698 - PHIL/POLI/ECON CAPSTONE (3 credit hours) [Research Intensive]
+  2. COMP 410 - SOFTWARE SYSTEMS (3 credit hours)
+  3. Upper Level ECON Elective (3 credit hours)
+  4. Elective (3 credit hours)
+  5. Focus Capacity Course (3 credit hours)
+  
+- **Spring Semester (12-15 credit hours)**
+  1. Upper Level COMP Electives (6 credit hours)
+  2. Upper Level ECON Electives (6 credit hours)
+  3. Elective (3 credit hours) [optional]
+
+Remember that:
+
+- You should check for prerequisites and course offerings for each semester.
+- You need a total of 120 credit hours to graduate, with appropriate distribution of focus capacity courses.
+- Electives and focus capacity courses should be chosen based on the individual's interests.
+- This schedule assumes no Advanced Placement (AP) credits or transfer credits.
+- The mix of classes manages workload by balancing core major, focus capacity, and elective courses each semester.
+
+Please consult your academic advisor for a personalized schedule that takes into account your current academic standing, any AP credits, or personal preferences.
