@@ -9,10 +9,10 @@ import re
 from transformers import GPT2Tokenizer
 import requests
 
-# AWS_KEY = "AKIARCDY2XIZ6O72YRAO"
-# AWS_SECRET = "Yjkkg69chm5Zj5tGiNvex/RANwHVB1qnTd6+3y8yaws"
+# AWS_KEY = "REDACTED_FOR_GITHUB_BACKUP"
+# AWS_SECRET = "REDACTED_FOR_GITHUB_BACKUP"
 
-openai.api_key = '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'
+openai.api_key = 'REDACTED_FOR_GITHUB_BACKUP'
 
 # Initialize Flask application
 app = Flask(__name__)
@@ -22,7 +22,7 @@ app.config["SESSION_TYPE"] = "filesystem"
 app.config['UPLOAD_FOLDER'] = 'user_uploads'  # Make sure this directory exists or create it
 Session(app)
 
-# app.secret_key = 'fopg928e0jvc1eibpvqoicnqinc'
+# app.secret_key = 'REDACTED_FOR_GITHUB_BACKUP'
 
 
 @app.route('/')
@@ -116,13 +116,13 @@ def contains_keyword(heading, keywords):
  
 def vector_search(user_input, given_property):
     # Configure the client to connect to your Weaviate instance
-    auth_config = weaviate.AuthApiKey(api_key="lPMSnt78RQzC2LNRFEwJWrLUopCzeJ5h9tPi")
+    auth_config = weaviate.AuthApiKey(api_key="REDACTED_FOR_GITHUB_BACKUP")
 
     client = weaviate.Client(
         url="https://ramvisor-sbwhtuuh.weaviate.network",
         auth_client_secret=auth_config,
         additional_headers={
-            "X-OpenAI-Api-Key": "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",
+            "X-OpenAI-Api-Key": "REDACTED_FOR_GITHUB_BACKUP",
         }
     )
 

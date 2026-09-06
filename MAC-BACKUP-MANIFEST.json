@@ -1,0 +1,145 @@
+{
+  "source_folder": "Ramvisor_Code",
+  "snapshot": "working-tree",
+  "source_ref": null,
+  "source_commit": "1301d96bbb2016e3993b6a00d6deafd9146343a3",
+  "excluded": [
+    {
+      "path": ".DS_Store",
+      "reason": "generated cache"
+    }
+  ],
+  "redacted": [
+    "convertoassistant.ipynb",
+    "intermediate.ipynb",
+    "ramvisor.py",
+    "vector_search3.ipynb",
+    "vectorsearch.ipynb",
+    "vectorsearch2.ipynb",
+    "weaviateimport.ipynb"
+  ],
+  "files": {
+    "vectorsearch2.ipynb": {
+      "original_sha256": "aa7d406c429a3fdeaa80e766a123adc540737e7af93891d95aff831b6c57415c",
+      "backup_sha256": "6c2a98cb04ddd11f07a5f972deb7fd541dab87a9474875fb59a686ce848f5ca0",
+      "mode": "100644"
+    },
+    "vector_search3.ipynb": {
+      "original_sha256": "02f1aafefcfbf85abca0dff7135397fdcd9e09b8a5f2ddfaa48c369a8836d6e5",
+      "backup_sha256": "7dcd700206597c1c2e8d60cb7d301b149673748218d4d9f5bd1625cf9dccc590",
+      "mode": "100644"
+    },
+    "requirements.txt": {
+      "original_sha256": "23beed4aac652ea43c73707cad5b2c4e9148248a8651f99e9a9e86f77eb37367",
+      "backup_sha256": "23beed4aac652ea43c73707cad5b2c4e9148248a8651f99e9a9e86f77eb37367",
+      "mode": "100644"
+    },
+    "user_input.txt": {
+      "original_sha256": "909448ecb281aa003b4c7b38c186c26a3f831aeab2a3b14274289edeced065d0",
+      "backup_sha256": "909448ecb281aa003b4c7b38c186c26a3f831aeab2a3b14274289edeced065d0",
+      "mode": "100644"
+    },
+    "intermediate.ipynb": {
+      "original_sha256": "19f48c24502a195589dc5fa4ae65294383e98bec0713d66df810ff4a2179d5b9",
+      "backup_sha256": "542b508a9aebc2678525e74ac838d2dc467b9eb2127d7e72aaf55a200d1d96dc",
+      "mode": "100644"
+    },
+    "combined_course_info.txt": {
+      "original_sha256": "00259f635cb7106b1440c952c8e332291f0bbdf0fc3c6055a84f0fc687371878",
+      "backup_sha256": "00259f635cb7106b1440c952c8e332291f0bbdf0fc3c6055a84f0fc687371878",
+      "mode": "100644"
+    },
+    "weaviateimport.ipynb": {
+      "original_sha256": "682b7bb29c038001b8363da7d963f7dd0e2aaa175d1f38f362e182ca1a1f7707",
+      "backup_sha256": "ed9e8450184bb6b67c73010d2e37bc71afcf648d873c7014aa4d00f22afa898a",
+      "mode": "100644"
+    },
+    "relevant_list.txt": {
+      "original_sha256": "cdb9533db4463cfff031e8f6f99abdf2ab6790b8fd147adce6e97202283cb4e2",
+      "backup_sha256": "cdb9533db4463cfff031e8f6f99abdf2ab6790b8fd147adce6e97202283cb4e2",
+      "mode": "100644"
+    },
+    "vector_search_result.txt": {
+      "original_sha256": "01989328626729dacae7ee46890869095414a8361a80f255ee5db6bfb3249ad1",
+      "backup_sha256": "01989328626729dacae7ee46890869095414a8361a80f255ee5db6bfb3249ad1",
+      "mode": "100644"
+    },
+    "ramvisor.py": {
+      "original_sha256": "ed2ba57b418c8ecae87c03298c77c061cd8c51ca39bbe29f48e3ebf468b9dea7",
+      "backup_sha256": "ed8719c7e9360267bcaedbc6c887e82e2a1acf9527af6a0feb9c5b398e9e4beb",
+      "mode": "100644"
+    },
+    "README.md": {
+      "original_sha256": "adfef2e8185272993550d403b0a7701d5ff0dc29e3a1b156255eafb2b08ff54c",
+      "backup_sha256": "adfef2e8185272993550d403b0a7701d5ff0dc29e3a1b156255eafb2b08ff54c",
+      "mode": "100644"
+    },
+    "application.py": {
+      "original_sha256": "5574036d0c424d904fd3ef79e4424d5d6f41773b7b23290a28cdaa5cb8fc9442",
+      "backup_sha256": "5574036d0c424d904fd3ef79e4424d5d6f41773b7b23290a28cdaa5cb8fc9442",
+      "mode": "100644"
+    },
+    "general_answer.txt": {
+      "original_sha256": "5aaf6576fa70ae9f4f82b5e72fe22c4f3455ec7cac9bfb9546a9f583597703b1",
+      "backup_sha256": "5aaf6576fa70ae9f4f82b5e72fe22c4f3455ec7cac9bfb9546a9f583597703b1",
+      "mode": "100644"
+    },
+    "pdf.txt": {
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "backup_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": "100644"
+    },
+    "text_preprocessing.ipynb": {
+      "original_sha256": "7472ef4b37dde644a65b3c294cc7a94f2713d7be5aa5060dd9638a223bf1e1a4",
+      "backup_sha256": "7472ef4b37dde644a65b3c294cc7a94f2713d7be5aa5060dd9638a223bf1e1a4",
+      "mode": "100644"
+    },
+    "convertoassistant.ipynb": {
+      "original_sha256": "648cc7d73d8a9f310ffbd6dc860cd445d749c2f1a7722ac256643458f8304524",
+      "backup_sha256": "16839234eb7c34457297768af46c0a8109abc60139404ccabdfdea8df6fe30a7",
+      "mode": "100644"
+    },
+    "vectorsearch.ipynb": {
+      "original_sha256": "09eb662dca31ba613149ec802fb9f2673ba2f53784da5c8ba8e0039c7dd0001b",
+      "backup_sha256": "07eb84c83f43ed8026e9d32953b1aec8e1fefa7fea53aa0edccdf1f37555415b",
+      "mode": "100644"
+    },
+    ".gitignore": {
+      "original_sha256": "ab28e3efb580183faf4826090e966af06cfab2a9dfa441348c12795b47e94653",
+      "backup_sha256": "ab28e3efb580183faf4826090e966af06cfab2a9dfa441348c12795b47e94653",
+      "mode": "100644"
+    },
+    "ramvisor.png": {
+      "original_sha256": "8d406238430ced5813af6c8d2a7c13f223583464050203f2c05f9fc049e7c773",
+      "backup_sha256": "8d406238430ced5813af6c8d2a7c13f223583464050203f2c05f9fc049e7c773",
+      "mode": "100644"
+    },
+    "formatted_classes_info.txt": {
+      "original_sha256": "80fe1ffd4f09debb0c36b30e10cfe60c62c09a8ae6eea3f8e2bf1c0def2ab130",
+      "backup_sha256": "80fe1ffd4f09debb0c36b30e10cfe60c62c09a8ae6eea3f8e2bf1c0def2ab130",
+      "mode": "100644"
+    },
+    "schedule.txt": {
+      "original_sha256": "c303a4d2bdab10c5f019483cb0fd1d83ea8b45d2731a6a3a32407281fc7b0282",
+      "backup_sha256": "c303a4d2bdab10c5f019483cb0fd1d83ea8b45d2731a6a3a32407281fc7b0282",
+      "mode": "100644"
+    },
+    "pdf_compressed.txt": {
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "backup_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": "100644"
+    },
+    "times_and_details_setup.ipynb": {
+      "original_sha256": "ae372b55545f74c9394e1c9f96b71213f64f0c3c90194486c80c9ce6e1c7b611",
+      "backup_sha256": "ae372b55545f74c9394e1c9f96b71213f64f0c3c90194486c80c9ce6e1c7b611",
+      "mode": "100644"
+    },
+    "user_input_modified.txt": {
+      "original_sha256": "637df28f4ac67fe022b58d35ba90c7f3b215ef7ad1163e695050f2875818a86d",
+      "backup_sha256": "637df28f4ac67fe022b58d35ba90c7f3b215ef7ad1163e695050f2875818a86d",
+      "mode": "100644"
+    }
+  },
+  "nested_repositories": [],
+  "scope": "Current source snapshot, with credential redactions and listed exclusions. Git history is not copied."
+}
